@@ -1,0 +1,151 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+body {
+    background-color: #f9f9f9;
+}
+
+header {
+    background-color: #f29c44;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+a {
+    color: white;
+    font-size: 20px;
+ padding: 20px;
+ margin: 10px;
+}
+.logo {
+    width: 150px;
+}
+.imagem {
+width: auto;
+margin: 0;
+padding: 0;
+}
+.informacoes {
+    text-align:  center;
+    justify-content: center;
+    padding: 10px;
+}
+h2{
+    color: #f29c44;
+    font-size: 40px;
+    padding: 40px;
+}
+
+.itens {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    
+}
+
+
+footer{
+    background-color: #f29c44;
+    height: 100px;
+    text-align:  center;
+    justify-content: center;
+}
+.rodapeimg{
+    width: 100px;
+}
+.ftm{
+    
+    width: 100px;
+   
+}
+.mulher{
+   justify-content:center ;
+    text-align: center;
+    display: flex;
+    padding: 100px
+    ;
+}
+.receitas {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+}
+h2{
+    text-align: center;
+}
+p{
+    color: #AFA7A7;
+    justify-items: center;
+    text-align: center;
+    display: block;
+    margin: left 10px; ;
+        white-space: pre-line;
+    
+    
+  
+}
+.bolo{
+  
+    text-align: left;
+     display: flex;
+    align-items: center;
+    padding: 10px;
+}
+h4{
+
+ justify-content: center;
+align-items: center;
+text-align: center;
+padding: 20px;
+
+
+}
+.pao{
+   display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+    
+    
+}
+
+.itens{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    padding: 10px;
+}
+
+img{
+    padding:10px;
+    width: 200px;
+    height: auto;
+    margin: 0
+    ;
+}
+.frango{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding: 100px;
+}
+.peixe{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    padding: 100px;
+}
+hr{
+    background-color: #f29c44;
+    height: 5px;
+}
